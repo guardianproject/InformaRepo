@@ -1,9 +1,9 @@
-[submodule "Analyzer"]
-	path = Analyzer
-	url = https://github.com/guardianproject/Unveillance.git
 [submodule "Dashboard"]
 	path = Dashboard
 	url = https://github.com/guardianproject/UnveillanceViewer.git
 [submodule "Repository"]
 	path = Repository
 	url = https://github.com/globaleaks/GLBackend.git
+[submodule "Analyzer"]
+	path = Analyzer
+	url = git@github.com:guardianproject/UnveillanceEngine.git
