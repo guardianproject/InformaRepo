@@ -1,6 +1,3 @@
-[submodule "Analyzer"]
-	path = Analyzer
-	url = https://github.com/guardianproject/Unveillance.git
 [submodule "Dashboard"]
 	path = Dashboard
 	url = https://github.com/guardianproject/UnveillanceViewer.git
